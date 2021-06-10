@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kuochying
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...python, C#
+- 🌱 I’m currently learning ...python, C# ,raspberry pi
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...email kuochyingc@gmail.com
 
